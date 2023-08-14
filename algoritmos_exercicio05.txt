@@ -1,0 +1,7 @@
+algoritmo de busca linear
+
+1: leia a lista
+2: leia a
+3: Verifique a lista
+4: se encontrar a, então pare
+5: senão, continue a busca até obter sucesso
