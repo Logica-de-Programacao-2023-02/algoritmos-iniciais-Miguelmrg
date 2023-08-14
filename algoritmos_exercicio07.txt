@@ -1,0 +1,7 @@
+algoritmo de verificação de números primos
+
+1: leia N
+2: faça N / todos os números inteiros entre 2 e N-1 
+3: se houver resto=0, então N não é primo
+4: senão, N é primo
+5: escreva resultado
