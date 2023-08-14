@@ -1,0 +1,7 @@
+algoritmo de cálculo de potência
+
+1: leia N
+2: leia expoente de N 
+3: se (expoente de N)>1 faça
+4: N*N para cada número inteiro entre 1 e expoente
+5: escreva resultado 
