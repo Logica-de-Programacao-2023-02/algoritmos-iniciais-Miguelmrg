@@ -1,0 +1,7 @@
+algoritmo de cálculo de média 
+
+1: leia lista de números N
+2: var soma=0
+3: para cada número da lista faça
+4: calcule a média dividindo a var soma pelo tamanho da lista
+5: escreva resultado 
