@@ -1,0 +1,6 @@
+algoritmo para cálculo da área de um triângulo
+
+1: leia base b
+2: leia altura h
+3: faça b*h/2
+4: escreva resultado
