@@ -1,0 +1,12 @@
+algoritmo de cálculo de média ponderada
+
+1: ler lista_valores
+2: ler lista_pesos
+3: var soma=0
+4: para cada número da lista_valores, faça 
+5:  soma=soma+(numero*peso_respectivo)
+6: var soma_peso=0
+7: para cada número da lista_peso, faça:
+8:  soma_peso=soma_peso+numero
+9: média=soma/soma_peso
+10: escreva média
