@@ -1,4 +1,4 @@
-algoritmo de busca linear
+algoritmo de busca linear (corrigido)
 
 1: leia a lista
 2: leia a
