@@ -1,7 +1,11 @@
-algoritmo de verificação de números primos
+algoritmo de verificação de números primos (corrigido)
 
 1: leia N
-2: faça N / todos os números inteiros entre 2 e N-1 
-3: se houver resto=0, então N não é primo
-4: senão, N é primo
-5: escreva resultado
+2: para cada número inteiro entre 2 e N-1, faça
+3:  se houver resto=0 da divisão entre N e o número, então:
+4:   escreva N não é primo
+5:   fim
+6:  fim-se
+7: fim-para
+8: escreva N é primo
+9: fim
