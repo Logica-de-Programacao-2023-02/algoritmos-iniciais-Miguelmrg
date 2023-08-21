@@ -2,6 +2,11 @@ algoritmo de busca linear
 
 1: leia a lista
 2: leia a
-3: Verifique a lista
-4: se encontrar a, então pare
-5: senão, continue a busca até obter sucesso
+3: para cada elemento da lista. faça:
+4:  se elemento igual a a, então:
+5:    escreva Encontrei a
+6:    fim
+7:  fim-se
+8: fim-para
+9: escreva Não encontrei a 
+10: fim
